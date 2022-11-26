@@ -1,8 +1,8 @@
 # Проект 2. Анализ вакансий из HeadHanter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/fido-alex/DS/tree/main/project_2/README.md#Описание-проекта)
-[2. Краткая информация о проекте](https://github.com/fido-alex/DS/tree/main/project_2/README.md#Краткая-информация-о-проекте)
+[1. Описание проекта](https://github.com/fido-alex/DS/tree/main/project_2/README.md#Описание-проекта)  
+[2. Краткая информация о проекте](https://github.com/fido-alex/DS/tree/main/project_2/README.md#Краткая-информация-о-проекте)  
 [3. Ноутбук с проектом](https://github.com/fido-alex/DS/tree/main/project_2/Project_2.ipynb) 
 
 ### Описание проекта    

@@ -1,8 +1,8 @@
 # Проект 3. Создание модели основанной на алгоритмах машинного обучения. Модель предсказывает рейтинги отеля по данным сайтв booking.
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/fido-alex/DS/tree/main/project_3/README.md#Описание-проекта)
-[2. Какой кейс решаем](https://github.com/fido-alex/DS/tree/main/project_3/README.md#Какой-кейс-решаем?)
+[1. Описание проекта](https://github.com/fido-alex/DS/tree/main/project_3/README.md#Описание-проекта)  
+[2. Какой кейс решаем](https://github.com/fido-alex/DS/tree/main/project_3/README.md#Какой-кейс-решаем?)  
 [3. Краткая информация о проекте](https://github.com/fido-alex/DS/tree/main/project_3/README.md#Краткая-информация-о-проекте)  
 [4. Ноутбук с проектом](https://github.com/fido-alex/DS/tree/main/project_3/project-3.ipynb) 
 

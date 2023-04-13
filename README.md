@@ -8,3 +8,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 2. Анализ ваканий из HeadHanter](https://github.com/fido-alex/DS/tree/main/project_2)
 * [Проект 3. Предсказание рейтингов отелей по данным booking.com](https://github.com/fido-alex/DS/tree/main/project_3)
 * [Проект 4. Маркетинговая компания банка](https://github.com/fido-alex/DS/tree/main/project_4)
+* [Проект 5. Прогнозирование выработки газа на скажинах](https://github.com/fido-alex/DS/tree/main/project_5)
